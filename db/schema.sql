@@ -1,3 +1,4 @@
+
 DROP DATABASE IF EXISTS tracking_myemployee_db;
 
 CREATE DATABASE tracking_myemployee_db;

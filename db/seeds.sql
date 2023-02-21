@@ -15,11 +15,11 @@ VALUES  ("Sales Lead", 150000, 1),
         ("Lawyer", 100000, 4);
 
 INSERT INTO employee(first_name, last_name, role_id, manager_id)
-VALUES  ("Michael", "Smith", 1, NULL),
-        ("David", "Patel", 2, 1),
-        ("John", "Kim", 3, NULL),
-        ("Jane", "Lee", 4, 3),
-        ("Robert", "Garcia", 5, NULL),
-        ("Kevin", "Martinez", 6, 5),
-        ("Amelia", "Thompson", 7, NULL),
-        ("Laura", "Hernandez", 8, 7);
+VALUES  ("Tiera", "Prince", 1, NULL),
+        ("Terrell", "Prince", 2, 1),
+        ("LaQuanda", "Prince", 3, NULL),
+        ("Reginald", "Prince", 4, 3),
+        ("Nico", "Welch", 5, NULL),
+        ("Brielle", "Willingham", 6, 5),
+        ("LaShaunda", "White", 7, NULL),
+        ("Larry", "White", 8, 7);
