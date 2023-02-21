@@ -13,7 +13,7 @@ const db = mysql.createConnection(
         database: process.env.DB_NAME,
         port: 3306
     },
-    console.log(`Connected to the tracking_myemployee_db database.`)
+    console.log(`Connected to the employee_db database.`)
   );
 
 // connects to sql server and sql database
